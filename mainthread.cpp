@@ -13,7 +13,7 @@
 
 
 #define PORT 5768
-#define HEAD 0xaa
+#define HEAD 0xbb
 #define ENUM 0x03
 #define GNSS_REPORTENUM 0x04
 #define GNSS_SETNETINFO 0x05
